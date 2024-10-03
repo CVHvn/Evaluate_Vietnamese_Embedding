@@ -1,0 +1,2 @@
+# Evaluate_Vietnamese_Embedding
+Evaluate Vietnamese Embedding Models
