@@ -128,7 +128,7 @@ This project evaluates embedding models on [Semantic Textual Similarity on STS B
 
 ## How to run my code
 - Just run all my jupyter notebook file
-- Use can add more model
+- You can add more model
 
 ## Insight
 From the results, we can see that:
